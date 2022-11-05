@@ -4,9 +4,8 @@ Helpful Tips for Git That I've Learned:
 
 - After you can change things on you computer but it won't automatically update so you have to do this manually
 
-- To update things to githib.com from your local you have to 
+- To update things to githib.com from your local computer you have to 
 1) In Terminal go to the folder that your cloned git repository is at 
 2) Once there use "git add ." to copy all new files and changes to transfer to the main
 3) The use "git commit -m "Describe what you did" " if you don't add the -m "description" it will be much more complicated to push the data
-4)After this then type "git push" this will put your new local changes into gitbub.com
-
+4)After this then type "git push" this will put your new local changes into github.com
